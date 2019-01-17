@@ -1,6 +1,6 @@
 # front-end-guide
 ###编辑器配置
-```
+```json
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
