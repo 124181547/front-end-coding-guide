@@ -1,4 +1,5 @@
-# front-end-guide
+# Sublime Text 3 Guide
+
 #### 编辑器配置
 ```json
 {
