@@ -1,2 +1,2 @@
 # Vue
-[Vue官方指导：](https://cn.vuejs.org/v2/style-guide/)
+[Vue官方风格指南](https://cn.vuejs.org/v2/style-guide/)
