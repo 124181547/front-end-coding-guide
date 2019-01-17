@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript Style Guide
 
 ## <a name="table-of-contents">目录</a>
 
