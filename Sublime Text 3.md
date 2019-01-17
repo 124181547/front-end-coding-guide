@@ -3,30 +3,30 @@
 #### 编辑器配置
 ```json
 {
-  "always_show_minimap_viewport": true,
-  "bold_folder_labels": true,
-  "color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
-  "draw_minimap_border": true,
-  "ensure_newline_at_eof_on_save": true,
-  "font_options":
+  "always_show_minimap_viewport": true, // 始终显示小地图
+  "bold_folder_labels": true, // 文件夹加粗
+  "color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme", // 代码颜色
+  "draw_minimap_border": true, // 始终显示小地图
+  "ensure_newline_at_eof_on_save": true, // 保存时强制在文件末尾换行
+  "font_options": // 
   [
-    "gdi"
+    "gdi" // 避免中文对不齐
   ],
-  "font_size": 14,
+  "font_size": 14, // 字体大小
   "ignored_packages":
   [
     "Vintage"
   ],
-  "margin": 0,
-  "scroll_past_end": false,
-  "show_encoding": true,
-  "tab_size": 2,
-  "theme": "Adaptive.sublime-theme",
-  "translate_tabs_to_spaces": true,
-  "tree_animation_enabled": false,
-  "trim_trailing_white_space_on_save": true,
-  "word_separators": "./\\()\"'-:,，.;<>~!@#$%^&*|+=[]{}`~?",
-  "word_wrap": false
+  "margin": 0, // 代码里左边的间距
+  "scroll_past_end": false, // 
+  "show_encoding": true, // 显示文件编码
+  "tab_size": 2, // Tab键宽度
+  "theme": "Adaptive.sublime-theme", // 主题
+  "translate_tabs_to_spaces": true, // 把Tab转换成空格
+  "tree_animation_enabled": false, // 关闭折叠动画
+  "trim_trailing_white_space_on_save": true, // 保存时过滤文件末尾的空格
+  "word_separators": "./\\()\"'-:,，.;<>~!@#$%^&*|+=[]{}`~?", // 双击选中时文字的分隔符
+  "word_wrap": false // 关闭自动换行
 }
 ```
 #### 安装插件
