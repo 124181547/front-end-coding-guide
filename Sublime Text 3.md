@@ -1,7 +1,7 @@
 # Sublime Text 3 Guide
 
 #### 编辑器配置
-```json
+```javascript
 {
   "always_show_minimap_viewport": true, // 始终显示小地图
   "bold_folder_labels": true, // 文件夹加粗
