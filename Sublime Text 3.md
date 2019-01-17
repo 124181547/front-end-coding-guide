@@ -27,5 +27,10 @@
   "word_separators": "./\\()\"'-:,，.;<>~!@#$%^&*|+=[]{}`~?",
   "word_wrap": false
 }
-
 ```
+#### 安装插件
+- IMESupport
+- JavaScript Snippets
+- Vue Syntax Higlight
+- Vuejs Snippets
+- Sass
