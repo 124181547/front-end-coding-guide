@@ -1,5 +1,5 @@
 # front-end-guide
-## 编辑器配置
+#### 编辑器配置
 ```json
 {
   "always_show_minimap_viewport": true,
