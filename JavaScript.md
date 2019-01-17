@@ -1,7 +1,4 @@
-# front-end-coding-guide
-Code Guide by Ben
-
-# Airbnb JavaScript Style Guide() {  
+# JavaScript
 
 ## <a name="table-of-contents">目录</a>
 
