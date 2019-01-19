@@ -26,6 +26,7 @@
   "tree_animation_enabled": false, // 关闭折叠动画
   "trim_trailing_white_space_on_save": true, // 保存时过滤文件末尾的空格
   "word_separators": "./\\()\"'-:,，.;<>~!@#$%^&*|+=[]{}`~?", // 双击选中时文字的分隔符
+  "default_line_ending": "unix", // 默认使用LF作为换行符
   "word_wrap": false // 关闭自动换行
 }
 ```
